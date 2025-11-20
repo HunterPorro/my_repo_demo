@@ -9,6 +9,7 @@ Google Gemini for debugging in trimmed_string
 
 
 ### this code splices the last 4 characters of the string input then makes 2 copies via *2
+print("hello world")
 def last_4_doubled(string):
     """
     Given a string, return a new string made of 2 copies of the last 4 characters of the original string.
